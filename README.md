@@ -22,7 +22,7 @@
 * I'm currently working on the <a href="https://www.in-situ.com.mx/">In Situ Energía</a> website, I wish to mix renewables to code!
 * I built a <a href="https://github.com/eduym17/EY-shopping-cart">Shopping cart</a> app to strengthen my abilities.
 * Once I imagined a new brand... So I built it, it's called <a href="https://www.asteroi.dev/">Asteroidev</a>! (website still in process)
-* I'm sure you learn better by teaching, that's why I'm the co-founder of FLATTWorld, where I do mentor new coders.
+* I'm sure you learn better by teaching, that's why I'm the co-founder of FLATTWorld, where I do mentor new latin coders.
 
 <br/>
 <h3 align="center">
@@ -31,20 +31,24 @@
 <br/>
 
 ## 🚀 Here's my stack:
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
+ <a href="https://nodejs.org/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+ <a href="https://jestjs.io/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
+ <a href="https://expressjs.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
+ <a href="https://www.postgresql.org/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+ <a href="https://www.mongodb.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+ <a href="https://git-scm.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<br />
+<br />
+<br />
 
+## 🔭 I build using this tools:
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<a href="https://www.adobe.com/mx/products/illustrator.html" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
+<a href="https://www.adobe.com/mx/products/photoshop.html" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
 
-🌌
-<!--
-**eduym17/eduym17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
