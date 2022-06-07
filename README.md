@@ -56,6 +56,6 @@
 <br />
 
 ## 🌌 Brands I've worked on:
-<img height="125px" align=left src="https://user-images.githubusercontent.com/96452418/172278533-624a839f-18c1-4634-b0ae-8205645ad3fb.png" />
-<img height="125px" align=left src="https://user-images.githubusercontent.com/96452418/172278017-81f63ab7-9a30-4f0a-a779-80e86c14354c.png" />
-<img height="125px" align=left src="https://user-images.githubusercontent.com/96452418/172278853-0d1fc3bf-c86e-468a-8427-972973828b72.png" />
+<img width="25%" align=left src="https://user-images.githubusercontent.com/96452418/172278533-624a839f-18c1-4634-b0ae-8205645ad3fb.png" />
+<img width="25%" align=left src="https://user-images.githubusercontent.com/96452418/172278017-81f63ab7-9a30-4f0a-a779-80e86c14354c.png" />
+<img width="25%" align=left src="https://user-images.githubusercontent.com/96452418/172278853-0d1fc3bf-c86e-468a-8427-972973828b72.png" />
