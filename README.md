@@ -51,4 +51,11 @@
 <a href="https://www.figma.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 <a href="https://www.adobe.com/mx/products/illustrator.html" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
 <a href="https://www.adobe.com/mx/products/photoshop.html" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
+<br />
+<br />
+<br />
 
+## 🌌 Brands I've worked on:
+<img height="125px" align=left src="https://user-images.githubusercontent.com/96452418/172278533-624a839f-18c1-4634-b0ae-8205645ad3fb.png" />
+<img height="125px" align=left src="https://user-images.githubusercontent.com/96452418/172278017-81f63ab7-9a30-4f0a-a779-80e86c14354c.png" />
+<img height="125px" align=left src="https://user-images.githubusercontent.com/96452418/172278853-0d1fc3bf-c86e-468a-8427-972973828b72.png" />
