@@ -42,6 +42,11 @@
  <a href="https://www.postgresql.org/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
  <a href="https://www.mongodb.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
  <a href="https://git-scm.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+ <a href="https://www.java.com/es/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+ <a href="https://www.selenium.dev/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></a>
+ <a href="https://cucumber.io/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" /></a>
+ <a href="https://www.jenkins.io/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></a>
+ <a href="https://www.mysql.com/" target="_blank"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <br />
 <br />
 <br />
