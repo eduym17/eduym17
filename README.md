@@ -15,7 +15,7 @@
 <h3 align="center">There's always a way to automation, it's just a matter of time discovering it.</h3>
 <br/>
 
-## 🌠 Some of my adventures:
+## 🌠 My journey in short:
 - __[2021]__ Until December of this year I worked in the Renewable Energies sector, but I always felt the need of building something through software. I decided to challenge myself and try to become a Software Engineer.
 - __[2022]__ This was the year of change, I finally started my journey as a Software Engineer:
   - Developed the <a href="https://www.in-situ.com.mx/">__In Situ Energía__</a> website just to learn
