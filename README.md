@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/eduym17/eduym17/assets/96452418/e29a5b7b-6b33-4427-861f-e2399a0ca96a">
 </p>
-<h2 align="center">DevOps Engineer | Full Stack Developer | Graphic Designer</h2>
+<h2 align="center">DevOps Engineer | Full Stack Developer | UI/UX Designer</h2>
 <br/>
 
 <p align="center">
