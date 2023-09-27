@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96452418/172259030-5f0c84b1-3773-4262-8cb9-b547f59bd448.png">
+  <img src="https://github.com/eduym17/eduym17/assets/96452418/e29a5b7b-6b33-4427-861f-e2399a0ca96a">
 </p>
+<h2 align="center">DevOps Engineer | Full Stack Developer | Graphic Designer</h2>
+<br/>
 
 <p align="center">
   <a href="https://github.com/eduym17"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
